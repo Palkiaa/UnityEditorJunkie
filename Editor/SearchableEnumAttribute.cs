@@ -6,7 +6,7 @@
 using System;
 using UnityEngine;
 
-namespace RoboRyanTron.SearchableEnum
+namespace UnityEditorJunkie.SearchableEnum
 {
     /// <summary>
     /// Put this attribute on a public (or SerialzeField) enum in a
