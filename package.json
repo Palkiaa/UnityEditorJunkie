@@ -1,6 +1,6 @@
 {
     "name": "com.roboryantron.unityeditorjunkie",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "UnityEditorJunkie",
     "description": "Unity code that gets you that sweet editor scripting fix. Unity did a pretty good job building out a massive editor... but there are a few holes. Lets fill them one by one.",
     "unity": "2020.3",
